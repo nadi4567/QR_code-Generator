@@ -1,6 +1,5 @@
 QR Code Generator
-
-  - This is a simple Node.js project that generates a QR code from a user-provided URL using the inquirer and qr-image npm packages. It also saves the input URL to a text file using Node.js' native fs module.
+- This is a simple Node.js project that generates a QR code from a user-provided URL using the inquirer and qr-image npm packages. It also saves the input URL to a text file using Node.js' native fs module.
 - For example: if you type youtube.com, program will generate qr image in qr-img.png file. And scan that image. it will direct to specific path.
 
 🛠 Features
