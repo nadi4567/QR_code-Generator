@@ -29,7 +29,7 @@ Usage
 
 Run the script using the following command:
 - node index.js
-Follow the prompts to enter a URL. The script will generate a QR code image (qr_img.png) and save the URL to a text file (URL.txt).
+- Follow the prompts to enter a URL. The script will generate a QR code image (qr_img.png) and save the URL to a text file (URL.txt).
 
 Dependencies
 
